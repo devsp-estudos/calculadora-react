@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
 body, html { font-family: sans-serif; height: 100%; }
 * { box-sizing: border-box; overflow: hidden; margin: 0; padding: 0; }
 
@@ -7,7 +9,7 @@ body, html { font-family: sans-serif; height: 100%; }
   --border-button-op: solid 1px rgb(0, 105, 209);
 }
 
-/* ------------- inicio ------------- */
+/* ------------- background ------------- */
 
 #root { 
   height: 100%; 
@@ -20,8 +22,11 @@ body, html { font-family: sans-serif; height: 100%; }
   background: linear-gradient(to left, #373b44, #4286f4);
 }
 
-h1 { padding: 20px; }
+/* ------------- titulo ------------- */
+h1 { padding: 20px; font-family: 'Pacifico', cursive; }
 
+
+/* ------------- corpo da calculadora ------------- */
 .calculadora {
   height: 320px;
   width: 235px;
@@ -33,6 +38,8 @@ h1 { padding: 20px; }
 .span-3 { grid-column: span 3; }
 .span-2 { grid-column: span 2; }
 
+
+/* ------------- display ------------- */
 .display {
   grid-column: span 4;
   background-color: #0004;
@@ -43,6 +50,8 @@ h1 { padding: 20px; }
   font-size: 1.8rem;
 }
 
+
+/* ------------- button ------------- */
 .button {
   font-size: 1.4rem;
   background-color: var(--cor-button);
@@ -52,8 +61,8 @@ h1 { padding: 20px; }
   border-bottom: var(--border-button);
   outline: none;
 }
-
 .button:active { opacity: .7; }
+
 
 .button.op { 
   background-color: dodgerblue; 
