@@ -23,7 +23,7 @@ body, html { font-family: sans-serif; height: 100%; }
 }
 
 /* ------------- titulo ------------- */
-h1 { font-size: 3rem; padding: 20px 0; font-family: 'Pacifico', cursive; color: #07224d; }
+h1 { font-size: 3rem; padding: 0 6px 20px; font-family: 'Pacifico', cursive; color: rgb(231, 231, 231); }
 
 
 /* ------------- corpo da calculadora ------------- */
@@ -34,6 +34,7 @@ h1 { font-size: 3rem; padding: 20px 0; font-family: 'Pacifico', cursive; color: 
   display: grid;
   grid-template-columns: repeat(4, 25%);
   grid-template-rows: 1fr repeat(5, 48px);
+  margin: auto;
 }
 .span-3 { grid-column: span 3; }
 .span-2 { grid-column: span 2; }
