@@ -8,7 +8,7 @@ function App() {
             <h1>Calculadora</h1>
             <Calculadora />
         </div>
-    )   
+    )
 }
 
 ReactDOM.render(<App />, document.getElementById('root'))
