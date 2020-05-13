@@ -1,3 +1,5 @@
-# calculadora
+# Calculadora-React
 
-Projeto dedicado ao estudo do React.
+Uma pequena calculadora para iniciar os estudos com React.js
+
+## :dart: Objetivo do Projeto
