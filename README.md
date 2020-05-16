@@ -10,18 +10,21 @@ O projeto foi criado para eu poder começar a trabalhar com o JSX, entender como
 
 ## :rocket: Tecnologias Utilizadas
 
-* React.js
-* Hooks
-* JSX
-* CSS
-* JS
-
-## :gear: Dependências
+* [React.js](https://pt-br.reactjs.org/)
+* [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+* [JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 **Dependência de desenvolvimento**
 
 * [gh-pages](https://www.npmjs.com/package/gh-pages)
     - Usado para construir a aplicação React em um site estatico numa branch especifica para ser usada no GitHub Pages.
+
+## :gear: Pré-requisitos
+
+* [Node.js](https://nodejs.org/en/)
+* [Npm](https://www.npmjs.com/) (É instalado junto com o Node)
 
 ## :arrow_forward: Rodar o Projeto
 
