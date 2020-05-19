@@ -1,4 +1,4 @@
-# :computer: Projeto
+# :page_with_curl: Sobre
 
 Uma pequena calculadora para iniciar os estudos com React.js
 
@@ -21,8 +21,9 @@ O projeto foi criado para eu poder começar a trabalhar com o JSX, entender como
 * [gh-pages](https://www.npmjs.com/package/gh-pages)
     - Usado para construir a aplicação React em um site estatico numa branch especifica para ser usada no GitHub Pages.
 
-## :gear: Pré-requisitos
+## :gear: Requisitos
 
+* [Git](https://git-scm.com/) (Opcional)
 * [Node.js](https://nodejs.org/en/)
 * [Npm](https://www.npmjs.com/) (É instalado junto com o Node)
 
@@ -42,4 +43,5 @@ O projeto foi criado para eu poder começar a trabalhar com o JSX, entender como
 
 ## :man_technologist: Redes Sociais
 
+* [instagram](https://www.instagram.com/devsp011/)
 * [Linkedin](https://www.linkedin.com/in/vitor-sampaio-4532451a7/)
