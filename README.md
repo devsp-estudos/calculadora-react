@@ -32,7 +32,7 @@ O projeto foi criado para eu poder começar a trabalhar com o JSX, entender como
 * Primeiro passo, clone o projeto em sua maquina
 * Abra a pasta do projeto no terminal
 * Instale as dependências com o comando `npm i` 
-* Inicie o servidro com o comando `npm start` , uma nova aba ira se abrir no navegador, caso não ocorra
+* Inicie o servidor com o comando `npm start` , uma nova aba ira se abrir no navegador, caso não ocorra
 * Abre uma aba no navegar e navegue para localhost:3000
 
 ## :keyboard: Resultado
